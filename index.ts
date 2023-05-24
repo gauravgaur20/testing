@@ -10,5 +10,5 @@ app.get('./',(req,res)=>{
 })
 
 app.listen(8000, ()=>{
-    console.log("listening master second commit");
+    console.log("listening");
 })
